@@ -7,7 +7,7 @@ package esempiovettore;
 
 /**
  *
- * @author Giuseppe
+ * @author Giuseppe x GitHub
  */
 import java.util.Vector;
 public class EsempioVettore {
